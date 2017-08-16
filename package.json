@@ -1,0 +1,14 @@
+{
+  "name": "electron_sys_info",
+  "version": "1.0.0",
+  "description": "simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Karan Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.5"
+  }
+}
