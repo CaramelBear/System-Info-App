@@ -10,9 +10,8 @@
 <h4>Technologies Used:</h4>
 
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>javascript</li>
+  <li>HTML & CSS (Bootstrap)</li>
+  <li>Javascript</li>
   <li>Electron.JS</li>
   <li>Node.JS</li>
 </ul>
