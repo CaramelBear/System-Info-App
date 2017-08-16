@@ -4,6 +4,7 @@
 <ul>
   <li>View you system information</li>
   <li>Explore the ElectronJS library</li>
+  <li>Utilized Electron to display the system information that is gathered by node</li>
 </ul>
 
 <h4>Technologies Used:</h4>
